@@ -339,7 +339,7 @@ ul li a:hover{
 }
 @media only screen and (width<450px){
     .list{
-        display: none;
+       flex-direction: column;
     }
     .el2 {
         flex-direction: column; 
