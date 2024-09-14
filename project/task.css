@@ -337,7 +337,7 @@ ul li a:hover{
 .chapter1{
    font-size: 200%; 
 }
-@media only screen and (width<600px){
+@media only screen and (width<450px){
     .list{
         display: none;
     }
@@ -355,7 +355,7 @@ ul li a:hover{
     }
     .el3{
         flex-direction: column;
-        margin-top: 220%;
+        margin-top: 330%;
        
     }
     .el4{
@@ -364,6 +364,10 @@ ul li a:hover{
     }
     .el5{
         flex-direction: column;
+    }
+    .phone3{
+        width: 30ew;
+        height: 30eh;
     }
     .numbers{
         flex-direction: column;
@@ -385,9 +389,8 @@ ul li a:hover{
         flex-direction: column;
     }
     .phone4{
-        width: 60%;
-       margin-top: 280px;
-       margin-left:2% ;
+        margin-top: 45%;
+       size: 90ew;
     }
     .el9 p{
         margin-left: 4%; 
