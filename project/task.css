@@ -210,13 +210,14 @@ ul li a:hover{
 .num h1 {
     font-size: 50px;
     margin: 0;
+    color: yellowgreen; 
 }
 .num p {
     font-size: 20px;
     color: gray;
 }
 .numbers:hover{
-    color: yellowgreen;
+    color: rgb(15, 15, 14);
 }
 .numbers p{
     color: aqua;
@@ -327,7 +328,7 @@ ul li a:hover{
 .chapter p{
     color: blueviolet;
    
-   margin-left: 42.5%;
+   margin-left: 1%;
    font-size: 150%;
 }
 .chapter p:hover{
